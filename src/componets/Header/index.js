@@ -8,7 +8,7 @@ export default function Dashboard () {
             <div className='flex flex-row pl-6 pt-12 h-24 items-center'>
                 <div className='text-2xl pr-8 font-bold'>
                     Dashboard
-                </div>
+                </div> 
                 <form>   
                     <div class='relative'>
                         <div class="absolute right-0 flex items-center pr-4 inset-y-0 pointer">
